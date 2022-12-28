@@ -1,0 +1,19 @@
+.box {
+    border: 1px solid black;
+    width:300px;
+    cursor:grab;
+}
+
+.draggable {
+    position: absolute;
+}
+
+#drag1 {
+    top: 400px;
+    left:0;
+}
+
+#drag2 {
+    top: 0;
+    left:0;
+}
